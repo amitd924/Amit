@@ -1,0 +1,12 @@
+How to Setup Eclipse
+
+Eclipse: (Neon)
+The Eclipse download requires about 250 MB of disk space; keep it on your machine, in case you need to re-install Eclipse. When installed, Eclipse requires an additional 250 MB of disk space.
+
+Click Eclipse
+The following page will appear in your browser. In this handout we will download Eclipse IDE for Eclipse Committers for Windows 32 Bit; if your computer uses Windows, continue below; otherwise choose either Mac Cocoa or Linux instead.
+
+It is critical that Java, Python, and Eclipse are either all 32 Bit or are all 64 Bit (and only if your Machine/OS supports 64 Bit): I think it easiest to use 32 Bit for everything.
+
+Click the 32-Bit (after Windows) to the right of the Eclipse IDE for Eclipse Committers.
+You will see the following page (don't worry about the name of the institution underneath the orange DOWNLOAD button).
